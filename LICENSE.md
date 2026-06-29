@@ -1,4 +1,4 @@
-# 
+# Smart 3D Path Planning AI scripts. Featuring AI-scalability and feature-extraction — optimized for maximum performance.
 
 
 
